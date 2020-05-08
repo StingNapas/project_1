@@ -8,8 +8,8 @@
 		"type": "chrome",
 		"request": "launch",
 		"name": "Launch Chrome",
-		"url": "http://localhost:8080",
-		// "url": "file:///D:/study/js/projects/prj_1/index.html",
+		// "url": "http://localhost:8080",
+		"url": "file:///D:/study/js/projects/prj_1/index.html",
 		"webRoot": "${workspaceFolder}\\js\\script.js"
 	},
 		{
